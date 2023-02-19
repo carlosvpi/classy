@@ -1,6 +1,6 @@
 {
   "name": "@carlosvpi/classy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Programmatic css styles",
   "main": "index.js",
   "repository": "https://github.com/carlosvpi/classy.git",
